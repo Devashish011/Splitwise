@@ -189,7 +189,6 @@ form h2 {
 		padding: 2rem; /* Adjust padding for the split bill form on small screens */
 	}
 	.form-split-bill > .button {
-		display: block;
 		width: 100% !important;
 	}
 }
